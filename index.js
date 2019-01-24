@@ -8,5 +8,7 @@ figlet('Joseph Martinsen', function (err, data) {
         console.dir(err);
         return;
     }
+
     console.log(data);
+    console.log('Howdy my name is Joseph Martinsen');
 });
