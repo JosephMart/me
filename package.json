@@ -1,0 +1,28 @@
+{
+  "name": "me",
+  "version": "1.0.0",
+  "description": "Joseph Martinsen's Info",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephMart/me/blob/master/package.json"
+  },
+  "license": "MIT",
+  "bin": {
+    "me": "./index.js"
+  },
+  "keywords": [
+    "contact",
+    "joseph",
+    "martinsen",
+    "info",
+    "information"
+  ],
+  "bugs": {
+    "url": "https://github.com/JosephMart/me/issues"
+  },
+  "homepage": "https://github.com/JosephMart/me#readme",
+  "dependencies": {
+    "figlet": "^1.2.1"
+  }
+}
